@@ -1,0 +1,39 @@
+# KNIME Workflow temporary files
+*.knwf.bak
+*.knwf~
+*.knime.lock
+*~
+
+# KNIME metadata
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+
+# Output files
+output/
+results/
+*.xlsx
+*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
